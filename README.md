@@ -14,9 +14,9 @@ Certifique-se de ter o Node.js instalado no seu sistema.
 3. Execute o comando 'npm install' para instalar as dependências.
 
 ## Uso
-1. Execute o servidor usando o comando node server.js.
-2. Abra o navegador e acesse 'http://localhost:3000'.
-3. Digite uma mensagem no campo de texto e clique no botão "Enviar".
+1. Para iniciar o servidor, execute o comando 'node server.js' no terminal.
+2. Abra o navegador e digite 'http://localhost:3000' (abra duas ou mais abas com esse endereço).
+3. Digite uma mensagem no campo de texto e clique no botão 'Enviar'.
 4. A mensagem será enviada para todos os clientes conectados ao servidor.
 
 ## Tecnologias utilizadas
