@@ -1,5 +1,29 @@
-# Trabalho de Desenvolvimento Voltado a Web III
- <h4>Prof. Felipe Perez</h4>
+# Projeto de Servidor de Broadcast com WebSocket e Servidor HTTP
+ #### Prof. Felipe Perez
      
-Trabalho da disciplina de Desenvolvimento Voltado a Web III, do curso de ADS da Unigran, professor Felipe Perez. 
- Criar um servidor de broadcast com WebSocket, um servidor HTTP com roteamento para arquivos e o lado do cliente em HTML + JavaScript com WebSocket em Node.js
+## Trabalho de Desenvolvimento Voltado a Web III
+
+Este projeto consiste em um servidor de broadcast usando WebSocket juntamente com um servidor HTTP com roteamento para arquivos estáticos. O lado do cliente é implementado em HTML e JavaScript utilizando WebSocket no ambiente Node.js. Trabalho da disciplina de Desenvolvimento Voltado a Web III, do curso de ADS da Unigran. 
+
+## Pré-requisitos
+Certifique-se de ter o Node.js instalado no seu sistema.
+
+## Instalação
+1. Faça o clone deste repositório para o seu computador.
+2. Acesse o diretório do projeto no terminal.
+3. Execute o comando 'npm install' para instalar as dependências.
+
+## Uso
+1. Execute o servidor usando o comando node server.js.
+2. Abra o navegador e acesse 'http://localhost:3000'.
+3. Digite uma mensagem no campo de texto e clique no botão "Enviar".
+4. A mensagem será enviada para todos os clientes conectados ao servidor.
+
+## Tecnologias utilizadas
+- ![Node.js](https://img.shields.io/badge/Node.js-14.x-green)
+- ![WebSocket](https://img.shields.io/badge/WebSocket-4.x-blue)
+- ![HTML](https://img.shields.io/badge/HTML-5-orange)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
+
+
