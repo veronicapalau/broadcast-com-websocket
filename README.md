@@ -17,7 +17,7 @@ Certifique-se de ter o Node.js instalado no seu sistema.
 1. Para iniciar o servidor, execute o comando 'node server.js' no terminal.
 2. Abra o navegador e digite 'http://localhost:3000' (abra duas ou mais abas com esse endereço).
 3. Digite uma mensagem no campo de texto e clique no botão 'Enviar'.
-4. A mensagem será enviada para todos os clientes conectados ao servidor.
+4. A mensagem será enviada para todos os clientes conectados ao servidor (ou seja, a mensagem deverá aparecer nas outras abas).
 
 ## Tecnologias utilizadas
 - ![Node.js](https://img.shields.io/badge/Node.js-14.x-green)
